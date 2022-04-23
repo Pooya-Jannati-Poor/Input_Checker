@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty_password">لطفا رمز عبور خود را وارد نمایید</string>
+    <string name="empty_phone_number">لطفا شماره موبایل خود را وارد نمایید</string>
+    <string name="empty_username">لطفا نام کاربری خود را وارد نمایید</string>
+    <string name="empty_email">لطفا ایمیل خود را وارد نمایید</string>
+
+    <string name="wrong_format_password">رمز عبور شما باید بیشتر از %d حرف باشد</string>
+    <string name="wrong_format_phone_number">شماره موبایل شما باید $d رقم باشد</string>
+    <string name="wrong_format_username">نام کاربری شما باید بیشتر از $d حرف باشد</string>
+    <string name="wrong_format_email">فرمت ایمیل شما اشتباه است</string>
+
+</resources>
