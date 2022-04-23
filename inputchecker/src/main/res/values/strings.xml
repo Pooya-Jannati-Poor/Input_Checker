@@ -6,7 +6,7 @@
     <string name="empty_username">لطفا نام کاربری خود را وارد نمایید</string>
     <string name="empty_email">لطفا ایمیل خود را وارد نمایید</string>
 
-    <string name="wrong_format_password">رمز عبور شما باید بیشتر از d% حرف باشد</string>
+    <string name="wrong_format_password">رمز عبور شما باید بیشتر از d$ حرف باشد</string>
     <string name="wrong_format_phone_number">شماره موبایل شما باید $d رقم باشد</string>
     <string name="wrong_format_username">نام کاربری شما باید بیشتر از $d حرف باشد</string>
     <string name="wrong_format_email">فرمت ایمیل شما اشتباه است</string>
